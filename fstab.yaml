@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/adriano-orlando/my-storefront-10/
+    type: markup
+
+folders:
+  /products/: /products/default
